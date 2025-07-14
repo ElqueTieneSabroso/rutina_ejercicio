@@ -13,5 +13,5 @@ def main():
 
     consejos_salud()
 
-if name_ == "_main_":
+if __name__ == "_main_":
     main()
